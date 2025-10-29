@@ -2,4 +2,6 @@
 
 Je suis en train d’essayer de faire des GIT SHOOOOOW
 
-## Voici mon deuxième commit 
+J'ai supprimé un truc pour faire des conflits MAMEN
+## Voici mon deuxième 
+
